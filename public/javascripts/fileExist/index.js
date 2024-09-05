@@ -16,6 +16,8 @@ function deleteFolderRecursive(path) {
 }
 
 
+
+
 /* 判断文件是否存在的函数
 *@path_way, 文件路径
  */
